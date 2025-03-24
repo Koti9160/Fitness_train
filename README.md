@@ -46,9 +46,6 @@ Sit-ups: Tracks core movement and head-to-knee proximity using hip and shoulder 
 
 Squats: Monitors knee bend angle to ensure proper form and prevent injury.
 
-Jumping Jacks: Tracks arm and leg movements to validate symmetrical motion.
-
-Lunges: Evaluates knee angle to ensure alignment and prevent excessive strain.
 
 ✅ Technologies Used:
 Python for application logic and control flow.
