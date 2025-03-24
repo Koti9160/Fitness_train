@@ -56,7 +56,6 @@ OpenCV for video capture, processing, and visualization.
 
 NumPy for efficient numerical computations.
 
-Matplotlib for graphical analysis (optional).
 
 ✅ Future Enhancements:
 Personalized workout plans based on user performance.
